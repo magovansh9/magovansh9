@@ -6,9 +6,9 @@ I love working on projects that involve a variety of concepts and technology sta
 
 ### 🌱 What I am learning
 - [React-Native](https://reactnative.dev/)
-- [Next.js ] (https://nextjs.org)
-- [Solidity] (https://docs.soliditylang.org/en/v0.8.11/)
-- [Ethereum Blockchain] (https://ethereum.org/en/)
+- [Next.js ](https://nextjs.org)
+- [Solidity](https://docs.soliditylang.org/en/v0.8.11/)
+- [Ethereum Blockchain](https://ethereum.org/en/)
 
 ### 📫 How to reach me
 - [Email](mailto:vanshmago9@gmail.com)
