@@ -2,7 +2,7 @@
 I am a software developer and a Computer Engineering student at the University of Waterloo.
 
 ### 👀 My Interests
-I love working on projects that involve a variety of concepts and technology stacks. More recently, I have been working on building Full stack mobile applications using React-Native and Expo CLI. 
+I love working on projects that involve a variety of concepts and tech stacks. More recently, I have been working on building Full stack mobile applications using React-Native and Expo CLI. 
 
 ### 🌱 What I am learning
 - [React-Native](https://reactnative.dev/)
